@@ -7,9 +7,6 @@ pip install curlify
 
 ## Changes
 
-### v.2.1.1
-   * Add `--insecure` flag if `verify` parameter is not `True`
-
 ### v.2.1.0
    * Fixed body rendering when using `json` param to request function.
 
